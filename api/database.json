@@ -1,0 +1,50 @@
+{
+  "plumbers": [
+    {
+      "name": "Maude",
+      "id": 1
+    },
+    {
+      "name": "Merle",
+      "id": 2
+    }
+  ],
+  "completions": [
+    {
+      "requestId": "2",
+      "plumberId": "1",
+      "date_created": "2016-07-27T18:30:00.000Z",
+      "id": 1
+    }
+  ],
+  "requests": [
+    {
+      "id": 1,
+      "description": "Aut sint voluptatem fugit eius quas molestiae modi.",
+      "address": "34445 Bianka Ports",
+      "budget": 400,
+      "neededBy": "2021-08-27"
+    },
+    {
+      "description": "ain't got water",
+      "address": "123 ain't got none",
+      "budget": "10",
+      "neededBy": "2022-12-02",
+      "id": 2
+    },
+    {
+      "description": "we got too much water",
+      "address": "right here",
+      "budget": "20",
+      "neededBy": "0238-03-04",
+      "id": 3
+    },
+    {
+      "description": "We would like our water relocated to an adjacent facility",
+      "address": "over there",
+      "budget": "370",
+      "neededBy": "1199-09-19",
+      "id": 4
+    }
+  ]
+}
